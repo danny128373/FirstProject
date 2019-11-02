@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="soccer">Do You Even Soccer?</string>
+
+    <!-- Question 1 along with answer options -->
+    <string name="question_one">Question 1: What are the home colors of the FC Barcelona soccer uniform? </string>
+    <string name="one_a">Orange and White</string>
+    <string name="one_b">Blue and Red</string>
+    <string name="one_c">Yellow and Blue</string>
+
+    <!-- Question 2 along with answer options -->
+    <string name="question_two">Question 2: Who won the 1994 FIFA World Cup?</string>
+    <string name="two_a">Italy</string>
+    <string name="two_b">Argentina</string>
+    <string name="two_c">Brazil</string>
+
+    <!-- Question 3 along with answer options -->
+    <string name="question_three">Question 3; According to the FIFA rules, how long can a goalkeeper hold the ball?</string>
+    <string name="three_a">3 seconds</string>
+    <string name="three_b">5 seconds</string>
+    <string name="three_c">10 seconds</string>
+
+    <!-- Question 4 along with answer options -->
+    <string name="question_four">Question 4: Anfield is the home of which English Premier League club?</string>
+    <string name="four_a">Manchester United</string>
+    <string name="four_b">Manchester City</string>
+    <string name="four_c">Liverpool</string>
+
+    <!-- Question 5 along with answer options -->
+    <string name="question_five">Question 5: Which of these players played in the 2018 FIFA World Cup?</string>
+    <string name="five_a">Cristiano Ronaldo</string>
+    <string name="five_b">Kylian Mbappe</string>
+    <string name="five_c">Ronaldinho</string>
+
+    <!-- Question 6 -->
+    <string name="question_six">Question 6: Which football league is the most popular?</string>
+    <string name="six_hint">Name of League</string>
+
+    <!-- Submit Button. -->
+    <string name="submit">Submit</string>
+
+    <!-- Number of answers that are correct. -->
+    <string name="number_of_correct"> out of 6.</string>
+
+    <!--Reset Button. -->
+    <string name="reset">Reset</string>
+
+</resources>
